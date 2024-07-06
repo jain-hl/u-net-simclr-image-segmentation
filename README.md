@@ -1,4 +1,4 @@
-# u-net-simclr-image-segmentation
+# Investigating U-Net Pretraining with SimCLR for Image Segmentation
 
 ### Introduction
 This paper explores the implementation of the U-Net architecture on self-supervised learning (SSL) for image segmentation on the Oxford-IIIT Pet dataset.
